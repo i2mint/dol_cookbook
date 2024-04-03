@@ -1,0 +1,4 @@
+dol_cookbook.util
+=================
+.. automodule:: dol_cookbook.util
+   :members:
