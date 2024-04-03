@@ -1,0 +1,7 @@
+{
+  "version": 37,
+  "examples": {
+    "apple": ["pie", "crumble", "sauce"],
+    "banana": "split"
+  }
+}
