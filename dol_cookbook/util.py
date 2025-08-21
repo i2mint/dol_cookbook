@@ -10,7 +10,3 @@ pkg_data_path = str(pkg_files)
 pkg_data_files = pkg_files / "data"
 
 misc_files_path = str(pkg_data_files / "misc_files")
-
-
-
-
