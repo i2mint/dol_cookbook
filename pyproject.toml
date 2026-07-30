@@ -89,6 +89,7 @@ convention = "google"
 [tool.pytest.ini_options]
 minversion = "6.0"
 testpaths = [
+    "dol_cookbook",
     "tests",
 ]
 doctest_optionflags = [
