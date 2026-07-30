@@ -10,12 +10,29 @@ version = "0.1.9"
 description = "recipes for dol tools"
 readme = "README.md"
 requires-python = ">=3.10"
-keywords = []
-authors = []
-dependencies = []
-
-[project.license]
-text = "MIT"
+license = "MIT"
+keywords = [
+    "dol",
+    "cookbook",
+    "recipes",
+    "examples",
+    "storage",
+    "key-value",
+]
+authors = [
+    { name = "Thor Whalen" },
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "dol",
+]
 
 [project.urls]
 Homepage = "https://github.com/i2mint/dol_cookbook"

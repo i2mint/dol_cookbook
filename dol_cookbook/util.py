@@ -1,4 +1,4 @@
-"""Utils for dol_coobook"""
+"""Utils for dol_cookbook."""
 
 from importlib.resources import files
 
