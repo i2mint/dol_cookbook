@@ -1,0 +1,6 @@
+dol\_cookbook.recipe\_translate\_keys
+=====================================
+
+.. automodule:: dol_cookbook.recipe_translate_keys
+
+   

@@ -1,0 +1,6 @@
+dol\_cookbook.recipe\_files\_as\_text
+=====================================
+
+.. automodule:: dol_cookbook.recipe_files_as_text
+
+   

@@ -1,0 +1,20 @@
+﻿dol\_cookbook
+=============
+
+.. automodule:: dol_cookbook
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   pipes
+   recipe_cached_keys
+   recipe_copy_between_backends
+   recipe_files_as_text
+   recipe_filter_keys
+   recipe_json_values
+   recipe_translate_keys
+   util

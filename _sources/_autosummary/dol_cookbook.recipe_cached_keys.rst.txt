@@ -1,0 +1,6 @@
+dol\_cookbook.recipe\_cached\_keys
+==================================
+
+.. automodule:: dol_cookbook.recipe_cached_keys
+
+   

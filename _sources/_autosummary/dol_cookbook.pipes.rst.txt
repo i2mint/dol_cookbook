@@ -1,0 +1,6 @@
+dol\_cookbook.pipes
+===================
+
+.. automodule:: dol_cookbook.pipes
+
+   

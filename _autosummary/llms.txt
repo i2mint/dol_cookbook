@@ -1,0 +1,20 @@
+# dol_cookbook
+
+> recipes for dol tools
+
+
+## Pages in this subsection
+
+- [dol_cookbook](dol_cookbook.html.md): Cookbook for DOLs.
+- [dol_cookbook.pipes](dol_cookbook.pipes.html.md): A bunch of useful function compositions (Pipe instances)
+- [dol_cookbook.recipe_cached_keys](dol_cookbook.recipe_cached_keys.html.md): Recipe: avoid re-listing a slow store.
+- [dol_cookbook.recipe_copy_between_backends](dol_cookbook.recipe_copy_between_backends.html.md): Recipe: copy data between two backends that use different formats.
+- [dol_cookbook.recipe_files_as_text](dol_cookbook.recipe_files_as_text.html.md): Recipe: a folder as a &#96;{filename: text}&#96; mapping.
+- [dol_cookbook.recipe_filter_keys](dol_cookbook.recipe_filter_keys.html.md): Recipe: expose only some of a store’s keys.
+- [dol_cookbook.recipe_json_values](dol_cookbook.recipe_json_values.html.md): Recipe: store Python objects as JSON text.
+- [dol_cookbook.recipe_translate_keys](dol_cookbook.recipe_translate_keys.html.md): Recipe: show friendly keys over a backend with awkward ones.
+- [dol_cookbook.util](dol_cookbook.util.html.md): Utils for dol_cookbook.
+
+## Optional
+
+- [Top-level llms.txt](../llms.txt): Complete documentation index.

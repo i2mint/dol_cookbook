@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "built_at": "2026-11-22T18:44:36Z",
+  "package": {
+    "name": "dol_cookbook",
+    "version": "0.1.10",
+    "display_name": "dol_cookbook",
+    "source": "pyproject.toml"
+  },
+  "git": {
+    "available": true,
+    "commit": "2d424fb4fef229b60e5fe7d132dd130da6107775",
+    "short_commit": "2d424fb",
+    "branch": "master",
+    "tags": [],
+    "dirty": false,
+    "remote_url": "https://github.com/i2mint/dol_cookbook",
+    "commit_url": "https://github.com/i2mint/dol_cookbook/commit/2d424fb4fef229b60e5fe7d132dd130da6107775",
+    "error": null
+  },
+  "ci": {
+    "provider": "github",
+    "repository": "i2mint/dol_cookbook",
+    "sha": "2d424fb4fef229b60e5fe7d132dd130da6107775",
+    "sha_in_history": true,
+    "ref": "refs/heads/master",
+    "ref_name": "master",
+    "run_id": "45056656771",
+    "run_url": "https://github.com/i2mint/dol_cookbook/actions/runs/45056656771",
+    "server_url": "https://github.com"
+  },
+  "tools": {
+    "epythet": "0.2.23",
+    "sphinx": "9.1.1",
+    "docutils": "0.22.4",
+    "python": "3.12.16"
+  },
+  "config": {
+    "theme": "auto",
+    "html_theme": "furo",
+    "accent": "#7f3879",
+    "mode": "auto",
+    "api_generator": "autosummary",
+    "ignore": [
+      "tests/",
+      "scrap/",
+      "examples/"
+    ],
+    "agent_outputs": true,
+    "aggregates": [
+      "md"
+    ],
+    "ai_artifacts": true,
+    "provenance": true,
+    "docs_dir": "docsrc"
+  },
+  "site": {
+    "modules_documented": 9,
+    "objects_documented": 0
+  },
+  "pypi": {
+    "checked": true,
+    "latest": "0.1.10",
+    "relation": "same",
+    "error": null
+  },
+  "reproduce": "git clone https://github.com/i2mint/dol_cookbook && cd dol_cookbook\ngit checkout 2d424fb4fef229b60e5fe7d132dd130da6107775\npip install \"epythet==0.2.23\"\nepythet quickstart . --ignore tests/ scrap/ examples/",
+  "warnings": [],
+  "alignment": {
+    "aligned": true,
+    "notes": []
+  }
+}

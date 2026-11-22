@@ -1,4 +1,0 @@
-dol_cookbook
-============
-.. automodule:: dol_cookbook
-   :members:

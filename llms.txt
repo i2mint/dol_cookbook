@@ -1,0 +1,27 @@
+# dol_cookbook
+
+> recipes for dol tools
+
+
+## Pages
+
+- [dol_cookbook](index.html.md): Worked recipes for dol, the data-object-layer toolkit. Every recipe is a module whose docstring is r...
+- [API reference](api.html.md): | &#96;dol_cookbook&#96;   | Cookbook for DOLs.   |
+- [dol_cookbook](_autosummary/dol_cookbook.html.md): Cookbook for DOLs.
+- [dol_cookbook.pipes](_autosummary/dol_cookbook.pipes.html.md): A bunch of useful function compositions (Pipe instances)
+- [dol_cookbook.recipe_cached_keys](_autosummary/dol_cookbook.recipe_cached_keys.html.md): Recipe: avoid re-listing a slow store.
+- [dol_cookbook.recipe_copy_between_backends](_autosummary/dol_cookbook.recipe_copy_between_backends.html.md): Recipe: copy data between two backends that use different formats.
+- [dol_cookbook.recipe_files_as_text](_autosummary/dol_cookbook.recipe_files_as_text.html.md): Recipe: a folder as a &#96;{filename: text}&#96; mapping.
+- [dol_cookbook.recipe_filter_keys](_autosummary/dol_cookbook.recipe_filter_keys.html.md): Recipe: expose only some of a store’s keys.
+- [dol_cookbook.recipe_json_values](_autosummary/dol_cookbook.recipe_json_values.html.md): Recipe: store Python objects as JSON text.
+- [dol_cookbook.recipe_translate_keys](_autosummary/dol_cookbook.recipe_translate_keys.html.md): Recipe: show friendly keys over a backend with awkward ones.
+- [dol_cookbook.util](_autosummary/dol_cookbook.util.html.md): Utils for dol_cookbook.
+- [About this build](about-this-build.html.md): This documentation was built on &#42;&#42;2026-11-22 18:44 UTC&#42;&#42; from commit &lt;a href="https://github.com/i2m...
+
+## Optional
+
+- [dol_cookbook.md](dol_cookbook.md): Complete documentation in a single file.
+
+## Build
+
+- [build_info.json](build_info.json): build provenance (commit, version, tool versions, whether the docs match the package)

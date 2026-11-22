@@ -1,4 +1,0 @@
-dol_cookbook.pipes
-==================
-.. automodule:: dol_cookbook.pipes
-   :members:
